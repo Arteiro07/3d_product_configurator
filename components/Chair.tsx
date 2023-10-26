@@ -56,9 +56,9 @@ export function Chair(props: JSX.IntrinsicElements["group"]) {
 
 	const fabricTexture_Props = useTexture({
 		//	map: "textures/fabric/Fabric_knitted_006_basecolor.jpg",
-		normalMap: "textures/fabric/Fabric_knitted_006_normal.jpg",
-		roughnessMap: "textures/fabric/Fabric_knitted_006_roughness.jpg",
-		aoMap: "textures/fabric/Fabric_knitted_006_ambientOcclusion.jpg",
+		normalMap: "textures/fabric/Fabric_Knitted_006_normal.jpg",
+		roughnessMap: "textures/fabric/Fabric_Knitted_006_roughness.jpg",
+		aoMap: "textures/fabric/Fabric_Knitted_006_ambientOcclusion.jpg",
 	});
 
 	//fabricTexture_Props.map.repeat.set(3, 3);
