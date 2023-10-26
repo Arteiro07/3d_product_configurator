@@ -41,7 +41,7 @@ body {
 .item_label {
 	font-size: 12px;
 	color: #acacac;
-	transition: 0.4s color;
+	transition: 0.3s color;
 }
 .item_dot {
 	width: 32px;
